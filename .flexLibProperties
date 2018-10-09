@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="lolo.core.SoundManager"/>
+    <classEntry path="lolo.utils.optimize.InteractiveScene"/>
+    <classEntry path="lolo.utils.optimize.IInteractiveObject"/>
+    <classEntry path="lolo.effects.float.CirclingFloat"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
